@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Sistema de Gestión de Traslados",
+  "description": "Una aplicación para coordinadores y administradores para gestionar traslados de pacientes, choferes, empresas, y generar liquidaciones detalladas.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
